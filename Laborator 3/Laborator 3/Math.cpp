@@ -4,6 +4,11 @@
 #include <stdio.h>
 #include <stdarg.h>
 #include <cstring>
+#include <iostream>
+
+using namespace std;
+
+#pragma warning(disable:4996)
 
 int Math::Add(int x, int y)
 {
@@ -66,9 +71,13 @@ int Math::Add(int count, ...)
 
 char* Math::Add(const char* s1, const char* s2)
 {
-	char buffer[256];
+	char *buffer = new char[256];
 	strncpy(buffer, s1, sizeof(buffer));
-	strncpy(buffer, s2, sizeof(buffer));
+	strncat(buffer, s2, sizeof(buffer));
 
+	for (int i = 0; i < strlen(buffer); i++)
+	{
+		cout << buffer[i];
+	}
 	return buffer;
 }
