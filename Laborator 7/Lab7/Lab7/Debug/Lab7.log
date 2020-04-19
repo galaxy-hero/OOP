@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 7\lab7\lab7\vector.h(88): warning C4715: 'Vector<int>::get': not all control paths return a value
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 7\lab7\lab7\vector.h(46): warning C4715: 'Vector<int>::pop': not all control paths return a value
+  Lab7.vcxproj -> C:\Users\Andreea\Desktop\Skewl\YEAR 3\Sem 2\OOP\OOP\Laborator 7\Lab7\Debug\Lab7.exe

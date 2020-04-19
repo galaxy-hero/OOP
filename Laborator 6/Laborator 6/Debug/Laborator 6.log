@@ -1,1 +1,24 @@
-﻿
+﻿  Audi.cpp
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\audi.cpp(7): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\audi.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\audi.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  BMW.cpp
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\bmw.cpp(7): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\bmw.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\bmw.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Circuit.cpp
+  Dacia.cpp
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\dacia.cpp(7): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\dacia.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\dacia.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Maserati.cpp
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\maserati.cpp(7): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\maserati.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\maserati.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Mercedess.cpp
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\mercedess.cpp(7): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\mercedess.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\andreea\desktop\skewl\year 3\sem 2\oop\oop\laborator 6\laborator 6\mercedess.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Laborator 6.vcxproj -> C:\Users\Andreea\Desktop\Skewl\YEAR 3\Sem 2\OOP\OOP\Laborator 6\Debug\Laborator 6.exe
